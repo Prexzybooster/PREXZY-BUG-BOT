@@ -1,0 +1,29 @@
+1. atp update
+
+2. apt upgrade
+
+3. pkg update && pkg upgrade
+
+4. pkg install bash
+
+5. pkg install git
+
+6. pkg install nodejs
+
+7. pkg install ffmpeg
+
+8. pkg install wget
+
+9. pkg install imagemagick
+
+10. pkg install yarn
+
+11. termux-setup-storage
+
+12 git clone https://github.com/prexzybooster/PREXZY-BUG-BOT 
+
+12. cd PREXZY-BUG-BOT
+
+14. yarn install
+
+15. npm start
