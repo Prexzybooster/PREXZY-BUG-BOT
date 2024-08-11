@@ -38,9 +38,9 @@ UPLOADING - HOW TO UPLOAD PREXZY BUG BOT FILE ON YOUR PANEL. Open the server,cli
 ### DEPLOYMENT ON TERMUX
 
 **Go to your termux and input this commands**
-termux-setup-storage
 
-apt update
+
+atp update
 
 apt upgrade
 
@@ -48,81 +48,72 @@ pkg update && pkg upgrade
 
 pkg install bash
 
-pkg install libwebp
+pkg install git
 
-pkg install git -y
+pkg install nodejs
 
-pkg install nodejs -y
-
-pkg install ffmpeg -y 
+pkg install ffmpeg
 
 pkg install wget
 
-pkg install imagemagick -y
+pkg install imagemagick
+
+pkg install yarn
+
+termux-setup-storage
+
+git clone  (copy and paste your forked repo not mine to save your changes) 
+
+
+cd PREXZY-BUG-BOT
+
+yarn install
+   
+npm start
 
 
 If you see any question while upgrading with this options with Y for yes or N for no = Click yes or y
 
 If you see any question while upgrading with this options with Y or n for default, = Click n for Default
 
-6. After its done upgrading type or copy and paste:
 
-git clone  (copy and paste your forked repo not mine to save your changes) 
 
-7. After that type: 
-
-cd Devil_Cat-V2.0
-
-8. after that type:
-
-pkg install yarn
-
-9. Then type:
-
-yarn install 
-
-10. After that type:
-
-npm start 
-
-11. It will ask you for your number type it with country code +
-12. It will give you a pair code go and link it to your WhatsApp 
-13. After linking
-14. Bot Connected ⚡
-15. Enjoy🤖
+ It will ask you for your number type it with country code +
+ It will give you a pair code go and link it to your WhatsApp 
+ After linking
+ Bot Connected ⚡
+ Enjoy🤖
 
 ### REPORT ISSUES
 
 if you're having any issues message me on
-WhatsApp: (https://wa.me/message/2DAGP33CWIDHD1) 
+WhatsApp: (https://wa.me/2349159895444) 
 
 If the bot goes offline 
 Just type cd and the bot name 
 Then type npm start
 It will come online
 
-`Please Devil Cat V2.0 BOT is for scammers only. Don't use it to harm innocent people`
+`Please PREXZY BUG BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to Devil Cat V2.0 MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to PREXZY BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
    **Xeon** who made the base bot
 
-   **Re-Jeong** For helping me test it
-   
-   **Toxxic** for inspiration; <br>
+   **PRECIOUS AYOMIDE** For developing it; <br>
 
 
 ## License
 
-The WhatsApp Bot Devil Cat v2 MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot PREXZY BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot Devil Cat v2 Md to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
--Lord No Name
+-PRECIOUS AYOMIDE
