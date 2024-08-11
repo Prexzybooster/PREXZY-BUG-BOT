@@ -21,13 +21,15 @@
 PREXZY BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
 If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA
-1. Click on **[Fork](https://github.com/Prexzybooster/Prexzy-bug-bot/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+### 1. FORK THIS REPO
+
+<a href='https://github.com/Prexzybooster/PREXZY-BUG-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
-**DEPLOYMENT PROCESS**
-### DEPLOY ON REPLIT
-IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
+ **2.DEPLOYMENT PROCESS**
+### DEPLOY ON PANEL
+IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND DEPLOY 
     <br>
     <a href='https://replit.com/github/Anime-King01/Devil_Cat-V2.0' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
