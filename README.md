@@ -31,7 +31,7 @@ If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILL
 ### DEPLOY ON PANEL
 IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND DEPLOY 
     <br>
-    <a href='https://replit.com/github/Anime-King01/Devil_Cat-V2.0' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=white'/></a>
 
 
 ### DEPLOYMENT ON TERMUX
