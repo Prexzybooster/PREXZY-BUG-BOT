@@ -35,6 +35,10 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 UPLOADING - HOW TO UPLOAD PREXZY BUG BOT FILE ON YOUR PANEL. Open the server,click on files,click on upload,chose storage,use the search bar in your storage to locate the file then select it..wait for it to finish uploading.use the tree ... Then unarchive.click on the name the file on top.check ✅ the box on the "/home/container,click Move,chose the directory. If you can't see this type (../) in the box then move..go to console and click on start to run.
 
+## 3. <a href='https://dashboard.render.com/template=https://github.com/Prexzybooster/Prexzy-bug-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
+## Watch Tutorial videos.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
+
 ### DEPLOYMENT ON TERMUX
 
 **Go to your termux and input this commands**
