@@ -45,29 +45,7 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 **Go to your termux and input this commands**
 
 
-atp update
 
-apt upgrade
-
-pkg update && pkg upgrade
-
-pkg install bash
-
-pkg install git
-
-pkg install nodejs
-
-pkg install ffmpeg
-
-pkg install wget
-
-pkg install imagemagick
-
-pkg install yarn
-
-termux-setup-storage
-
-git clone  (copy and paste your forked repo not mine to save your changes) 
 
 
 cd PREXZY-BUG-BOT
@@ -91,13 +69,36 @@ If you see any question while upgrading with this options with Y or n for defaul
 
 ### REPORT ISSUES
 
-if you're having any issues message me on
-WhatsApp: (https://wa.me/255616030473) 
+atp update
+   
 
-If the bot goes offline 
-Just type cd and the bot name 
-Then type npm start
-It will come online
+apt upgrade
+
+pkg update && pkg upgrade
+
+pkg install bash
+
+ pkg install git
+
+ pkg install nodejs
+
+pkg install ffmpeg
+
+pkg install wget
+
+pkg install imagemagick
+
+ pkg install yarn
+
+termux-setup-storage
+
+git clone https://github.com/Prexzybooster/PREXZY-BUG-BOT
+
+ cd PREXZY-BUG-BOT
+ 
+ yarn install
+ 
+ npm start
 
 `Please PREXZY BUG BOT is for scammers only. Don't use it to harm innocent people`
 
