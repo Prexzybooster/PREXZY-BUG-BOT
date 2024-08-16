@@ -33,9 +33,10 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
     <br>
     <a href='https://bot-hosting.net/?aff=1264676029318955030' target="_blank"><img alt='Panel' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=panel&logoColor=white'/></a>
 
-UPLOADING - HOW TO UPLOAD PREXZY BUG BOT FILE ON YOUR PANEL. Open the server,click on files,click on upload,chose storage,use the search bar in your storage to locate the file then select it..wait for it to finish uploading.use the tree ... Then unarchive.click on the name the file on top.check ✅ the box on the "/home/container,click Move,chose the directory. If you can't see this type (../) in the box then move..go to console and click on start to run.
+### OR
+### 1. <a href="https://prexzyvillasession.onrender.com/"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
 
-## 3. <a href='https://dashboard.render.com/template=https://github.com/Prexzybooster/Prexzy-bug-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
+## 2. <a href='https://dashboard.render.com/template=https://github.com/Prexzybooster/Prexzy-bug-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
 ## Watch Tutorial videos.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
 
