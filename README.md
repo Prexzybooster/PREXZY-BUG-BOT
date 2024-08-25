@@ -1,24 +1,24 @@
-<h1 align="center"> PREXZY BUG BOT </h1>
+<h1 align="center"> DRAKE BOT </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PREXZY-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+PRECIOUS+AYOMIDE;RELEASED+05.08.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;PREXZY-BUG-BOT;WHATSAPP+BUG+BOT;CREATED+BY+DRAKE+DEMON;RELEASED+05.08.24" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
+  <a href="https://whatsapp.com/channel/0029VaUfPO8qIzztuf42D04">
     <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
     <h1 align="center">PREXZY-BUG-BOT</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+255616030473"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Dark"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+255616030473"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
 
-PREXZY BUG BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+DRAKE DEMON is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
 If you clone my repo or use as base bot, dont forget to give credits. PREXZYVILLA
 ### 1. FORK THIS REPO
@@ -38,7 +38,7 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 ## 2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
 ## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyvilla)
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prexzyviila)
 
 ### DEPLOYMENT ON TERMUX
 
@@ -105,21 +105,21 @@ git clone https://github.com/Prexzybooster/PREXZY-BUG-BOT
 
 ## Contributions
 
-Contributions to PREXZY BUG BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to drake demon are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
    **Xeon** who made the base bot
 
-   **PRECIOUS AYOMIDE** For developing it; <br>
+   **DRAKE** For developing it; <br>
 
 
 ## License
 
-The WhatsApp Bot PREXZY BUG BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot DRAKE BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
--PRECIOUS AYOMIDE
+-DRAKE
